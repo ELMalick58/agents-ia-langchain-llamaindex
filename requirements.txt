@@ -1,0 +1,29 @@
+# Google Gemini
+google-genai
+python-dotenv
+
+# LangChain
+langchain
+langchain-community
+langchain-google-genai
+langchain-core
+langchain-tavily
+
+# LlamaIndex
+llama-index
+llama-index-core
+llama-index-llms-google-genai
+llama-index-embeddings-google-genai
+
+# Embeddings & Vector Store
+faiss-cpu
+llama-index-embeddings-huggingface 
+sentence-transformers 
+torch
+
+
+
+# Document loaders
+docx2txt
+
+tavily-python
