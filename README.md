@@ -53,6 +53,12 @@ flowchart TD
 
 *Cette architecture représente les composants étudiés dans le projet. Les éléments exacts dépendent du script et de la configuration utilisés.*
 
+
+## Architecture du projet
+
+![Architecture du projet](docs/Architecture_AIagent.png)
+
+
 ## Technologies
 
 | Technologie | Rôle |
